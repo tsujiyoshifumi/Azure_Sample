@@ -1,5 +1,5 @@
 # ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-# 説明：CUSTOM VISIONの学習データを呼び出して端末にある画像の予測値を取得します
+# 説明：CUSTOM VISIONの予測AIを呼び出して端末にある画像の予測値を取得します
 # 参考資料
 # https://docs.microsoft.com/ja-jp/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?pivots=programming-language-python
 # ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
